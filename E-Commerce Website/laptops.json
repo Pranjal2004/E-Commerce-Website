@@ -1,0 +1,58 @@
+[{
+        "id": 1,
+        "name": "Acer Aspire 7 Gaming Laptop 13th Gen Intel Core i5-13420H Processor ",
+        "price": "69,990",
+        "image": "img/1.png",
+        "description": "Experience smooth gaming and productivity with the Acer Aspire 7, powered by the 13th Gen Intel Core i5-13420H processor. Designed for performance, it features advanced graphics capabilities and high-speed computing to handle demanding tasks and immersive gaming. The sleek, portable design ensures style and convenience on the go, while its robust hardware configuration ensures reliability for both work and play. Perfect for gamers, students, and professionals alike."
+    },
+    {
+        "id": 2,
+        "name": "HP Pavilion 14 12th Gen Intel Core i7",
+        "price": "89,990",
+        "image": "img/2.png",
+        "description": "The HP Pavilion 14, powered by the 12th Gen Intel Core i7 processor, delivers exceptional performance for multitasking, productivity, and entertainment. Its sleek and lightweight design makes it ideal for work or travel, while the high-resolution display ensures stunning visuals. With advanced connectivity options and long battery life, this laptop is a versatile choice for professionals, students, and content creators seeking power and portability."
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i7-13620H",
+        "price": "79,990",
+        "image": "img/3.png",
+        "description": "The Lenovo IdeaPad Slim 3, equipped with the 13th Gen Intel Core i7-13620H processor, offers a seamless blend of power and efficiency for everyday tasks and multitasking. Its slim and lightweight design ensures portability, while the high-performance processor makes it perfect for work, study, or entertainment. Enjoy vibrant visuals, fast connectivity, and an enhanced user experience with this versatile and stylish laptop."
+    },
+    {
+        "id": 4,
+        "name": "Apple 2024 MacBook Air (13-inch, Apple M3 chip, 24GB, 512GB) - Space Gray",
+        "price": "1,49,990",
+        "image": "img/4.png",
+        "description": "The 2024 MacBook Air, featuring the powerful Apple M3 chip, redefines performance and efficiency in a sleek, lightweight design. With 24GB of RAM and a 512GB SSD, it delivers blazing-fast multitasking and ample storage for all your needs. The stunning 13-inch Retina display ensures vivid visuals, while its Space Gray finish adds a touch of elegance. Perfect for professionals, creatives, and students who value portability and power in one sophisticated package."
+    },
+    {
+        "id": 5,
+        "name": "ASUS Vivobook 15, Intel Core i5-12500H 12th Gen,Thin and Light Laptop",
+        "price": "49,990",
+        "image": "img/5.png",
+        "description": "The ASUS Vivobook 15, powered by the 12th Gen Intel Core i5-12500H processor, combines performance and portability in a sleek, thin, and light design. Ideal for multitasking and everyday computing, it features a vibrant 15.6-inch display, modern connectivity options, and long battery life. Whether for work, study, or entertainment, this laptop offers a perfect balance of style and functionality."
+    },
+    {
+        "id": 6,
+        "name": "Dell XPS 9730 Laptop, Intel Core i7-13700H",
+        "price": "95,990",
+        "image": "img/6.png",
+        "description": "The Dell XPS 9730, driven by the 13th Gen Intel Core i7-13700H processor, is a powerhouse designed for premium performance. Featuring a stunning display, robust build, and advanced graphics options, it excels in productivity, creative work, and entertainment. With its sleek design, cutting-edge hardware, and immersive user experience, this laptop is perfect for professionals and creators seeking top-tier performance and portability."
+    },
+    {
+        "id": 7,
+        "name": "Acer Aspire 3 Spin 14 Intel Core i3-N305 Processor Laptop",
+        "price": "29,990",
+        "image": "img/7.png",
+        "description": "The Acer Aspire 3 Spin 14, equipped with the Intel Core i3-N305 processor, is a versatile 2-in-1 laptop designed for everyday use. Its 14-inch touchscreen display and 360-degree hinge offer flexibility for work, study, or entertainment in laptop, tent, or tablet mode. Lightweight and efficient, it’s an ideal choice for users seeking portability and functionality at an affordable price."
+    },
+    {
+        "id": 8,
+        "name": "LENOVO Legion 9i 13th Gen, 40.64cms - Intel i9 (Carbon Black)",
+        "price": "1,19,990",
+        "image": "img/8.png",
+        "description": "The Lenovo Legion 9i, powered by the 13th Gen Intel Core i9 processor, is a gaming and performance beast with a striking 40.64 cm (16-inch) display. Designed in Carbon Black, it combines power and elegance, perfect for gamers, creators, and professionals. Featuring top-tier graphics, advanced cooling, and a premium build, it handles the most demanding tasks and games with ease, delivering an immersive and reliable experience."
+    }
+
+]

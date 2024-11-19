@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <img src="logo.png" alt="Alpes Computer.com">
+
+        </div>
+
+        <ul>
+            <li class="item"><a href="index.html">Home</a></li>
+            <li class="item"><a href="#services-container">Services</a></li>
+            <li class="item"><a href="#client-section">Our Clients</a></li>
+            <li class="item"><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+
+
+    <div class="container">
+        <div class="title">COMPUTER & DESKTOPS LIST: </div>
+        <div class="listProduct">
+
+        </div>
+    </div>
+
+
+
+    <script>
+        //Important note: If you have downloaded the code
+        // but still encounter errors when running the program,
+        //    please watch the video at this link because
+        // I have shown you how to run the project properly.
+        // https://www.youtube.com/watch?v=okyfcpZfPAU&t=142s
+        let products = null;
+        // get datas from file json
+        fetch('desktops.json')
+            .then(response => response.json())
+            .then(data => {
+                products = data;
+                addDataToHTML();
+            })
+
+        function addDataToHTML() {
+            // remove datas default from HTML
+            let listProductHTML = document.querySelector('.listProduct');
+
+            // add new datas
+            if (products != null) // if has data
+            {
+                products.forEach(product => {
+                    let newProduct = document.createElement('a');
+                    newProduct.href = '/desk_detail.html?id=' + product.id;
+                    newProduct.classList.add('item');
+                    newProduct.innerHTML =
+                        `<img src="${product.image}" alt="">
+                <h2>${product.name}</h2>
+                <div class="price">₹    ${product.price}</div>`;
+                    listProductHTML.appendChild(newProduct);
+                });
+            }
+        }
+    </script>
+</body>
+
+</html>

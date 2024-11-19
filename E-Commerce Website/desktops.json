@@ -1,0 +1,50 @@
+[{
+        "id": 1,
+        "name": "HP All-in-One 24-cb1901 ",
+        "price": "49,990",
+        "image": "desktop_img/1.png",
+        "description": "The HP All-in-One PC blends the power of a desktop with the beauty of a slim, modern display into one dependable device designed to grow with you. With easy upgrades in three simple steps, you can feel confident your tech will stay up-to-date."
+    },
+    {
+        "id": 2,
+        "name": "Zebronics Nitro Desktop Combined All-In-One PC",
+        "price": "39,999",
+        "image": "desktop_img/2.png",
+        "description": "The Zebronics Nitro Desktop Combined All-In-One PC offers a sleek, space-saving design with powerful performance for work and entertainment. Featuring a vibrant display, fast processing power, and ample storage, it's the perfect all-in-one solution for both home and office use. Priced at ₹39,999."
+    },
+    {
+        "id": 3,
+        "name": "HP All-in-One PC 13th Gen Intel Core i5 27-inch",
+        "price": "79,999",
+        "image": "desktop_img/3.png",
+        "description": "HP All-in-One PC 13th Gen Intel Core i5 27-inch (68.6cm) FHD 16GB RAM, 1TB SSD, Intel UMA Graphics, 710 White Wireless Keyboard and Mouse Combo (Windows 11 Home, MSO 21, Shell White, 6.72 Kg) 27-cr0407in"
+    },
+    {
+        "id": 4,
+        "name": "Dell Inspiron Desktop PC 10th Gen Intel Core i5 22-inch",
+        "price": "59,999",
+        "image": "desktop_img/4.png",
+        "description": "The Dell Inspiron Desktop PC with a 10th Gen Intel Core i5 processor and a 22-inch display offers a seamless computing experience for everyday tasks, from work to entertainment. Its reliable performance, modern design, and crisp visuals make it an ideal choice for home or office use. Perfect for multitasking and productivity at an affordable price."
+    },
+    {
+        "id": 5,
+        "name": "ASUS S500SD All-In-One PC 11th Gen Intel Core i3 23-inch",
+        "price": "89,999",
+        "image": "desktop_img/5.png",
+        "description": "The ASUS S500SD All-In-One PC combines style and performance with its 11th Gen Intel Core i3 processor and a stunning 23-inch display. Ideal for both work and entertainment, it delivers smooth multitasking, vibrant visuals, and a sleek, space-saving design. Perfect for modern homes and offices, all at a price of ₹89,999."
+    },
+    {
+        "id": 6,
+        "name": "Lenovo IdeaCentre AIO 3i 54.61cms - Intel Core i7-13700H",
+        "price": "1,09,999",
+        "image": "desktop_img/6.png",
+        "description": "The Lenovo IdeaCentre AIO 3i is a powerful all-in-one desktop featuring an Intel Core i7-13700H processor and a 54.61 cm (21.5-inch) display. Combining high-end performance with sleek, space-saving design, it’s perfect for multitasking, creative work, and entertainment. Whether for home or office, this PC delivers speed, efficiency, and stunning visuals in one compact package."
+    },
+    {
+        "id": 7,
+        "name": "New Apple iMac M4 Blue 2024 24-inch",
+        "price": "1,49,999",
+        "image": "desktop_img/7.png",
+        "description": "Apple M4 chip with 8-core CPU, 8-core GPU, 16 core Neural Engine 60.96 cm(24-inch) 4 Retina display² / Standard glass, 16 GB unified memory, 256 GB SSD storage, Two Thunderbolt / USB 4 ports, Magic Mouse, Magic Keyboard - US English"
+    }
+]

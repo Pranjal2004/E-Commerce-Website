@@ -1,0 +1,64 @@
+[{
+        "id": 1,
+        "name": "AORUS ELITE B660 AX DDR4 Motherboard",
+        "price": "14,990",
+        "image": "accessories_img/motherboard.png",
+        "description": "The AORUS ELITE B660 AX DDR4 is a high-performance motherboard designed for Intel 12th and 13th Gen processors. It supports DDR4 memory, advanced PCIe 4.0 slots, and Wi-Fi 6 connectivity for seamless gaming and multitasking. With robust power delivery, premium thermal solutions, and extensive expandability options, this motherboard is ideal for building a reliable, high-powered PC setup. Perfect for gamers and enthusiasts seeking performance and flexibility."
+    },
+    {
+        "id": 2,
+        "name": "DELL Wireless Keyboard and Mouse Set with 3200 DPI",
+        "price": "1,299",
+        "image": "accessories_img/keymouse.png",
+        "description": "The DELL Wireless Keyboard and Mouse Set combines convenience and performance for everyday productivity. The keyboard offers a comfortable typing experience with responsive keys, while the mouse features up to 3200 DPI sensitivity, ensuring smooth and precise navigation. With a sleek, ergonomic design and wireless connectivity, this set is perfect for work, study, or home use, offering a clutter-free desktop experience."
+    },
+    {
+        "id": 3,
+        "name": "Intel i3 Processor 7th Gen Unlocked",
+        "price": "10,999",
+        "image": "accessories_img/i3processor.png",
+        "description": "The Intel Core i3 7th Gen Unlocked Processor offers solid performance for entry-level computing tasks with the flexibility for overclocking. This processor is ideal for everyday use such as browsing, office work, and media consumption, while the unlocked feature allows users to push the processor’s performance beyond the base clock for enhanced speed and efficiency. A great choice for budget-conscious users who want to customize and optimize their system’s performance."
+    },
+    {
+        "id": 4,
+        "name": "EVGA 650 SMPS",
+        "price": "1,099",
+        "image": "accessories_img/smps.png",
+        "description": "The EVGA 650 SMPS (Switched-Mode Power Supply) is a reliable and efficient power solution designed to deliver 650 watts of power to your system. With high-quality components and a stable output, it ensures consistent performance for gaming PCs, workstations, or custom builds. Featuring multiple protection features like overvoltage, undervoltage, and short-circuit protection, it offers peace of mind while powering your components. Its quiet fan ensures optimal cooling, making it a great choice for both performance and reliability."
+    },
+    {
+        "id": 5,
+        "name": "Samsung High Speed 8 GB DDR4 RAM (Pack of 2)",
+        "price": "2,999",
+        "image": "accessories_img/ram.png",
+        "description": "The Samsung High-Speed 8 GB DDR4 RAM (Pack of 2) offers a total of 16 GB for enhanced multitasking and faster performance in your PC or laptop. With high-speed data transfer and low latency, this memory kit is ideal for gaming, content creation, and productivity tasks. It is built with reliable and efficient technology, ensuring smooth system performance and fast load times. A perfect upgrade for users looking to boost their system’s responsiveness and overall speed."
+    },
+    {
+        "id": 6,
+        "name": "Sony 30 Watts Desktop Stereo Speakers",
+        "price": "4,999",
+        "image": "accessories_img/speaker.png",
+        "description": "The Sony 30 Watts Desktop Stereo Speakers deliver rich, clear sound with a total output of 30 watts, perfect for desktop setups. These compact speakers offer deep bass, crisp highs, and enhanced audio quality for music, movies, and gaming. With easy-to-use controls and a sleek design, they add both style and performance to your workspace. Ideal for users who want improved sound without the bulk of larger speaker systems."
+    },
+    {
+        "id": 7,
+        "name": "Hajaan HS1TBE - 512Gb Nvme.2 SSD Ultra-Fast Speed SSD",
+        "price": "5,999",
+        "image": "accessories_img/ssd.png",
+        "description": "The Hajaan HS1TBE 512GB NVMe 2.0 SSD offers ultra-fast data transfer speeds, making it perfect for gaming, content creation, and heavy multitasking. With 512GB of storage, it provides ample space for applications, games, and media, while the NVMe 2.0 interface ensures blazing-fast read and write speeds, significantly improving system boot times and load speeds. Compact, durable, and energy-efficient, this SSD is an excellent upgrade for those looking to boost their PC's performance and storage capacity."
+    },
+    {
+        "id": 8,
+        "name": "Logitech 2MP High-Quailty Desktop Webcam",
+        "price": "1,999",
+        "image": "accessories_img/webcam.png",
+        "description": "The Logitech 2MP High-Quality Desktop Webcam delivers sharp and clear video quality with its 2MP resolution, ideal for video calls, streaming, and content creation. It features an integrated microphone for crisp audio and a wide-angle lens for a more inclusive field of view. With plug-and-play functionality, it’s easy to set up and compatible with most video conferencing platforms. A great choice for users seeking reliable video performance for work or personal use."
+    },
+    {
+        "id": 9,
+        "name": "Ant Esports RGB Gaming Keyboard with Special Fn Keys",
+        "price": "1,999",
+        "image": "accessories_img/gaming_keyboard.png",
+        "description": "The Ant Esports RGB Gaming Keyboard combines dynamic RGB lighting with advanced features designed for gamers. The keyboard includes special Fn keys that provide quick access to functions like media control, lighting adjustments, and macros, enhancing your gaming experience. With responsive keys, customizable backlighting, and a durable build, it’s ideal for both casual and competitive gaming. The RGB lighting adds a personalized touch, making it perfect for gamers who want style and performance in one."
+    }
+]
